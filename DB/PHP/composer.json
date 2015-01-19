@@ -1,0 +1,17 @@
+{
+    "name": "herenow/herenow",
+    "description": "db management for herenow app",
+    "authors": [
+        {
+            "name": "Xinyi Chen",
+            "email": "xchen416@gatech.edu"
+        }
+    ],
+    "require": {
+        "slim/slim": "2.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.3.*",
+        "phpunit/dbunit": ">=1.2"
+    }
+}
